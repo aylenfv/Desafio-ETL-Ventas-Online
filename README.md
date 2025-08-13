@@ -17,3 +17,9 @@ Leímos la base de datos en el desafío anterior, ahora podemos seguir adelante 
 * Verificar tipos de datos;
 * Identificar columnas numéricas;
 * Transformar la columna numérica a tipo numérico.
+
+## Etapa 3
+
+Debido a una inestabilidad en el sitio web de la empresa, tuvimos problemas con los nombres de los clientes durante el guardado. Esto resultó en una columna de nombres de clientes con una combinación de letras, mayúsculas y minúsculas, números y otros caracteres.
+
+Sabiendo esto, manipula los textos de la columna Cliente para que el resultado sean los nombres de los clientes en letras minúsculas, con ausencia de caracteres especiales o números.
