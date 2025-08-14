@@ -23,3 +23,9 @@ Leímos la base de datos en el desafío anterior, ahora podemos seguir adelante 
 Debido a una inestabilidad en el sitio web de la empresa, tuvimos problemas con los nombres de los clientes durante el guardado. Esto resultó en una columna de nombres de clientes con una combinación de letras, mayúsculas y minúsculas, números y otros caracteres.
 
 Sabiendo esto, manipula los textos de la columna Cliente para que el resultado sean los nombres de los clientes en letras minúsculas, con ausencia de caracteres especiales o números.
+
+## Etapa 4
+
+En los pasos anteriores ya hemos trabajado con varios tipos de datos, ahora podemos trabajar con datos de tiempo.
+
+En la columna Fecha de venta tenemos fechas en el formato 'día/mes/año' (dd/mm/AAAA). Transforme estos datos al tipo datetime y busque una forma de visualización de subconjunto que pueda contribuir al objetivo del contexto en el que se insertan los datos.
